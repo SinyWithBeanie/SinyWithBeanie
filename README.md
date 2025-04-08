@@ -1,11 +1,9 @@
 <h1 align="center">Hello Friend! I'm Sinisha Zorikj</h1>
 <h3 align="center">Funk-driven child with passion for coding and solving everyday problems.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinywithbeanie" alt="sinywithbeanie" /></a> </p>
+- 🔭 I’m currently working in - **Proton AG (VPN branch)**
 
-- 🔭 I’m currently working in **Proton AG (VPN branch)**
-
-- 📫 How to reach me **sinisa.zoric26@proton.me**
+- 📫 How to reach me - **sinisa.zoric26@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
